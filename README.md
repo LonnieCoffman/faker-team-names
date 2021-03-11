@@ -26,17 +26,17 @@ $faker->teamName;
 
 ## Example Names
 
-Distressing Freaks
-Disobedient Skullcaps
-Supercilious Trainers
-Monstrous Technicians
-Communicative Daughters
-Persevering Asshats
-Mysterious Geese
-Perfectly Balanced Stalkers
-Startling Paramedics
-French Rose Wolfmen
-Tasteless Snipers
-Sophisticated Knights
-Unfriendly Bull-Headed Lovers
-Honeydew Hitmen
+Distressing Freaks\
+Disobedient Skullcaps\
+Supercilious Trainers\
+Monstrous Technicians\
+Communicative Daughters\
+Persevering Asshats\
+Mysterious Geese\
+Perfectly Balanced Stalkers\
+Startling Paramedics\
+French Rose Wolfmen\
+Tasteless Snipers\
+Sophisticated Knights\
+Unfriendly Bull-Headed Lovers\
+Honeydew Hitmen\
