@@ -39,4 +39,4 @@ French Rose Wolfmen\
 Tasteless Snipers\
 Sophisticated Knights\
 Unfriendly Bull-Headed Lovers\
-Honeydew Hitmen\
+Honeydew Hitmen
